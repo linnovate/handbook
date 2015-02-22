@@ -1,3 +1,8 @@
+[gitbook](http://linnovate.gitbooks.io/handbook/content/)
+
+[repo](https://github.com/linnovate/handbook/)
+
+
 # Introduction
 
 **motivation**
