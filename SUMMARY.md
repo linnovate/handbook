@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* questions
+* [questions](questions.md)
 * menu
 * steps
 * custom_script
