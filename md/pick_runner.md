@@ -1,4 +1,4 @@
-gitlab-ci
+available runners
 ----
 - list of gitlab-ci-runner machines which registered themself on the gitlab-ci server
 
