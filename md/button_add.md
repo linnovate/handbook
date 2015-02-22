@@ -1,4 +1,4 @@
-gitlab-ci
+list of project
 ----
 - gitlab-projects list as instances on gitlab-ci
 - each instance has C.I enabled/disabled 
