@@ -1,4 +1,4 @@
-gitlab-ci
+builds for branch
 ----
 - the tab items are named branches(like: Master, testing, github_pages )
 - commits with green/red status (aks: builds)
