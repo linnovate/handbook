@@ -5,6 +5,7 @@
 - A: we want to test it and set a status of ok OR error for each commit.
 
 
+[cover](cover.jpeg)
 
 **glossary:**
 
