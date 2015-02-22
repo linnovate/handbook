@@ -6,5 +6,10 @@
 
 
 
-**testing 'a commit' is called 'a build'**
-- the process of cloning the repository code and running some test on it and report the commiter if the test for his commit was passing is called: **'a build'**.
+**glossary:**
+
+- what is 'a build' ?
+- the process of cloning the repository code for commit:X
+- running a test on the code
+- report the commiter if test has failed
+- this process done by the machine which called the 'gitlab-ci-runner' and registered on 'gitlab-ci'
