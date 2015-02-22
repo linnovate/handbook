@@ -11,4 +11,4 @@
 
 
 **how to be productive when I edit the custom-script ?**
-- if I use command: 'npm install grunt' on the custom-script - is is not effective - tell the integrator-person to install grunt on the runner-machine and use that runner (tell him also to update the description of the runner such as: 'machine has: mongo, npm and grunt' )
+- if I use command: 'npm install grunt' on the custom-script - is is not effective - tell the integrator-person to install grunt on the runner-machine and use that runner (tell him also to update the web-interface of gitlab-ci with a new description for the updated runner instance: 'Description: machine has: mongo, npm and grunt' )
