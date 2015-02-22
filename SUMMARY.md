@@ -7,4 +7,5 @@
 * custom_script
 * branch
 * commits
+* gitlab-ci
 
