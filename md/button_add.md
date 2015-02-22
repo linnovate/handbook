@@ -1,5 +1,6 @@
 gitlab-ci
 ----
+- list of my projects
 
 #activate C.I for my project
 - it displays a list of my projects
