@@ -1,5 +1,9 @@
 gitlab-ci
 ----
+
+
+questions
+----
 - Q: how to configure a gitlab project to use runner:x ?
 - A: follow the blue instructions: goto your gitlab repo and update it (cp+paste: 2 gray fields)
 
