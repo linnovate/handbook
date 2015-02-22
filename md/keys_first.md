@@ -1,4 +1,4 @@
-gitlab-ci
+spacific C.I settings for a project
 ----
 
 
