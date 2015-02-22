@@ -4,7 +4,7 @@
 * [questions](questions.md)
 * menu
 * steps
-* custom_script
+* [custom_script](customscript.md)
 * branch
 * commits
 * [gitlab-ci](gitlab-ci.md)
