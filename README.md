@@ -1,6 +1,4 @@
-[gitbook](http://linnovate.gitbooks.io/handbook/content/)
-
-[repo](https://github.com/linnovate/handbook/)
+[link: gitbook](http://linnovate.gitbooks.io/handbook/content/) [link: github](https://github.com/linnovate/handbook/)
 
 
 # Introduction
