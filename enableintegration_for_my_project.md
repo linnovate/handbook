@@ -1,5 +1,7 @@
 # web interface for: gitlab-ci 
-- press on button: "Add"
+- a list of my projects
+- to enable gitlab-ci integration for project X
+- press on the right button: "Add"
 
 
 ![enable integration for my projects](enable_integration_for_my_project.png.png)
