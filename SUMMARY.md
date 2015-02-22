@@ -11,4 +11,5 @@
 * [reports](notifications.md)
 * status_image
 * pick_runner_for_testing_X
+* enable_integration_for_my_project
 
