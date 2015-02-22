@@ -2,7 +2,7 @@ gitlab-ci
 ----
 - ci details for repo:X
 
-options
+details
 ----
 - project info: build timeout(escape a build after X minutes and set build as: test-failed )
 - build stats: boring statistics
