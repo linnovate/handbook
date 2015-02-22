@@ -6,7 +6,7 @@
 * menu
 * steps
 * branch
-* [commits](commits.md)
 * [gitlab-ci](gitlab-ci.md)
+* [commits](commits.md)
 * [reports](notifications.md)
 
