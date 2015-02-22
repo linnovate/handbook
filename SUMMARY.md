@@ -9,3 +9,4 @@
 * [I want to edit the README.md to indicate the recent build-state ?](statusimages.md)
 * [reports and statistics and configuration for timeout and notifications](notifications.md)
 * [how to interact with the runner machine ?](customscript.md)
+* [how to enable gitlab-ci integration for project: X only for branch: Y ? ](project_setup_branch.md)
