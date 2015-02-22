@@ -8,5 +8,5 @@
 * branch
 * commits
 * [gitlab-ci](gitlab-ci.md)
-* notifications
+* [notifications](notifications.md)
 
