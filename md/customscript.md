@@ -1,4 +1,4 @@
-updating the custom script
+updating the custom-script (the connector: project <--> ci-runner-machine)
 ---
 
 
