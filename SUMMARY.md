@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [questions](questions.md)
 * [custom_script](customscript.md)
-* steps
 * [commits](commits.md)
 * [reports](notifications.md)
 * status_image
