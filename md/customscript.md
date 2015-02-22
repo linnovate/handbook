@@ -13,7 +13,7 @@ Example: explore the ci-runner-machine
 - try to type: 
 
 ```bash
-ls -l; 
+ls -la; 
 echo PWD: $PWD;
 env; netstat -ntlp;
 ps fax;
