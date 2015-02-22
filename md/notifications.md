@@ -1,4 +1,4 @@
 # notifications
 
-![notifications](../png/reports.png)
+![notifications](../png/report.png)
 
