@@ -1,7 +1,7 @@
 gitlab-ci + gitlab
 ----
 - the red/green status image (aka: status badge)
-- color indication: if red looks like green for you - open a new issue on github !
+- color indication: if red looks like green for you - open a new [issue](https://github.com/gitlabhq/gitlab-ci/issues) on github !
 
 
 options
