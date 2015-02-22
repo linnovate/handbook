@@ -1,6 +1,6 @@
 # Summary
 
-* 
+* Setup
 * Testing (CI) 
   * [Introduction](ci/README.md)
   * [questions](ci/questions.md)
