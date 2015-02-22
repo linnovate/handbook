@@ -9,3 +9,5 @@ git pull                          #get the selenium test-suite
 ls -la   
 /extra/.test_me_please.sh         #run a script which looks for suite.json and run its tests.
 ```
+
+![editing the custom script](GitLab CI - Google Chrome_013.png)
