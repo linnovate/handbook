@@ -4,4 +4,4 @@
 - press on the right button: "Add"
 
 
-![enable integration for my projects](enable_integration_for_my_project.png.png)
+![enable integration for my projects](../png/enable_integration_for_my_project.png)
