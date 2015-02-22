@@ -13,3 +13,4 @@
 - running a test on the code
 - report the commiter if test has failed
 - this process done by the machine which called the 'gitlab-ci-runner' and registered on 'gitlab-ci'
+- the developer can choose a gitlab-ci-runner from the web interface of the gitlab-ci server
