@@ -1,4 +1,4 @@
-gitlab-ci
+report / statistics
 ----
 - ci details for repo:X
 
