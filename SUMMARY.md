@@ -7,5 +7,5 @@
 * custom_script
 * branch
 * commits
-* gitlab-ci
+* [gitlab-ci](gitlab-ci.md)
 
