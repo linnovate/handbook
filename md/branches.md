@@ -1,4 +1,4 @@
-gitlab-ci
+menu -> settings
 ----
 - settings ( **notice:** scroll down to view more options ! )
 
