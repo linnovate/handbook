@@ -1,4 +1,4 @@
-gitlab-ci + gitlab
+update README.md with the status image
 ----
 - **status image:** color indication for test-pass/test-fail
 - **color indication:** if red looks like green for you - open a new [issue](https://github.com/gitlabhq/gitlab-ci/issues) on github !
