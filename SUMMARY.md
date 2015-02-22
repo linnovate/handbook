@@ -1,6 +1,11 @@
 # Summary
 
 * Setup
+  * Open repoistory
+  * Open Project management
+* Process
+ * daily scrums
+ * Weekly meetings
 * Testing (CI) 
   * [Introduction](ci/README.md)
   * [questions](ci/questions.md)
