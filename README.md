@@ -3,6 +3,11 @@
 **motivation**
  Q: how to maintain our code ?
  A: we want to create connection between changes to our code and an automatic process which take our code-commit as a parameter and prepare a build for it.
+ 
+ 
+ **w.t.f is a build ?**
+- a build is the test-suite that we can run on our code (like: "grunt test" )
+- a build finished with a status: 'test ok' OR 'test error'.
 
 
 **the build process:**
@@ -17,7 +22,7 @@
 
 **how to customize a tester  ?**
 - the tester is actually called the "runner-machine" it stores a machine which dedicated to run a project of type X.
-- 
+
 
 **Example: how to test my project using selenium ?**
 - the integrator person has to create a machine which runs selenium.
