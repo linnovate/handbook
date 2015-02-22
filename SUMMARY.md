@@ -9,4 +9,5 @@
 * [gitlab-ci](gitlab-ci.md)
 * [commits](commits.md)
 * [reports](notifications.md)
+* status_image
 
