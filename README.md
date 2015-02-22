@@ -4,8 +4,8 @@ links: [gitbook](http://linnovate.gitbooks.io/handbook/content/) [github](https:
 # Introduction
 
 **motivation**
-- Q: how to maintain our code ?
-- A: we want to test it and set a status of ok OR error for each commit.
+- **Q:** how to maintain our code ?
+- **A:** we want to test it and set a status of ok OR error for each commit.
 
 
 ![cover](cover.jpg)
