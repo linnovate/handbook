@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [questions](md/questions.md)
+* start integration
 * [menu](md/menu.md)
-   * start integration
 * [my projects](md/button_add.md)
 * [pick a runner](md/pick_runner.md)
 * [assosiate: runner+project](md/keys_first.md)
