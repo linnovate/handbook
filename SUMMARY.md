@@ -10,5 +10,5 @@
 * [landing page](md/status_image.md)
 * [review configuration](md/notifications.md)
 * [connector: project-and-runner](md/customscript.md)
-* [how to enable gitlab-ci integration for project: X only for branch: Y ? ](md/branches.md)
+* [spacify branch](md/branches.md)
 
