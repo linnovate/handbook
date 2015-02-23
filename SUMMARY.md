@@ -9,6 +9,6 @@
 * [assosiate runner+project](md/keys_first.md)
 * [landing page](md/status_image.md)
 * [review configuration](md/notifications.md)
-* [how to interact with the runner machine ?](md/customscript.md)
+* [connector: project-and-runner](md/customscript.md)
 * [how to enable gitlab-ci integration for project: X only for branch: Y ? ](md/branches.md)
 
