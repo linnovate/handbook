@@ -1,3 +1,6 @@
+how to interact with the runner machine ?
+----
+
 updating the custom-script (the connector: project <--> ci-runner-machine)
 ---
 
