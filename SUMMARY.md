@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [questions](md/questions.md)
-* [start integration](md/start_integration.md)
+* [gitlab: start integration](md/start_integration.md)
 * [assosiate: runner+project](md/keys_first.md)
 * [gitlab-ci menu](md/menu.md)
 * [my projects](md/button_add.md)
