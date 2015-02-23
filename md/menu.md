@@ -1,4 +1,4 @@
-# gitlab-ci: the web-interface
+# gitlab-ci: its web-interface
 ---
 - notice the menu
 - focus: "Settings"
