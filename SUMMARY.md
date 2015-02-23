@@ -9,7 +9,7 @@
 * [project setup](md/menu.md)
 * [project setup review](md/notifications.md)
 * [spacify branch](md/branches.md)
+* [advance-settings](md/customscript.md)
 * [updating README.md](md/status_image.md)
 * [inspect old builds](md/commits.md)
-* [advance-settings](md/customscript.md)
 
