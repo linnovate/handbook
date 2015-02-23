@@ -1,8 +1,7 @@
 manually updating the gitlab-settings for my project
 ----
+- spacific C.I settings for a project
 
-spacific C.I settings for a project
-----
 
 
 options
