@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [questions](md/questions.md)
 * [menu](md/menu.md)
-* [how to enable gitlab-ci integration for project: X ? ](md/button_add.md)
+* [my_projects](md/button_add.md)
 * [which commits got a green status ?](md/commits.md)
 * [how to pick a runner suitable for selenium-testing ?](md/pick_runner.md)
 * [how to update my gitlab-repo settings for integrations/gitlab-ci ?](md/keys_first.md)
