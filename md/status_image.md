@@ -1,3 +1,7 @@
+I want to edit the README.md to indicate the recent build-state ?
+---
+
+
 update README.md with the status image
 ----
 - **status image:** color indication for test-pass/test-fail
