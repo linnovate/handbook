@@ -1,9 +1,6 @@
 how to pick a runner suitable for selenium-testing ?
 ---
-
-available runners
-----
-- list of gitlab-ci-runner machines which registered themself on the gitlab-ci server
+- we can see a list of runner machines which registered themself on the gitlab-ci server
 
 
 options:
