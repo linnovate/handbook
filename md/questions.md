@@ -2,11 +2,9 @@
 
 
 **how to test my project using selenium ?**
-- tell the integrator person to create a new machine(gitlab-ci-runner machine) and install selenium and register this machine on gitlab-ci machine
-- gitlab-ci server should list the new registered machines(the runners)
-- the developer can link a runner to his project 
-- Example: if we have a project in JS we want the runner to have npm pre-installed
-
+- tell the integrator person to create a new runner machine which contains selenium
+- the gitlab-ci web interface should list the new registered machines(the runners)
+- the developer can assosiate a runner with his project by selecting a runner from a list.
 
 **can I change the runner-machine - and install another tool on it ?**
 - yes, after we pick the runner - we have to edit the a webpage (Aka: 'custom-script') and type commands which will run on the runner machine after it cloned our repository. 
