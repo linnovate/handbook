@@ -10,7 +10,7 @@ links: [gitbook](http://linnovate.gitbooks.io/handbook/content/) [github](https:
 
 ![cover](cover.jpg)
 
-**glossary:**
+**keyword: build**
 
 - what is 'a build' ?
 - the process of cloning the repository code for commit:X
