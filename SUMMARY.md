@@ -12,4 +12,4 @@
 * [runner interaction](md/customscript.md)
 * [updating README.md](md/status_image.md)
 * [inspect old builds](md/commits.md)
-
+* [screencast](md/steps.md)
