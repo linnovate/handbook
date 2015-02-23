@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [questions](md/questions.md)
-* start integration
+* [start integration](md/start_integration.md)
 * [menu](md/menu.md)
 * [my projects](md/button_add.md)
 * [pick a runner](md/pick_runner.md)
