@@ -7,9 +7,9 @@
 * [gitlab-ci menu](md/menu.md)
 * [my projects](md/button_add.md)
 * [pick a runner](md/pick_runner.md)
-* [advance-settings](md/customscript.md)
 * [project frontpage](md/status_image.md)
 * [reports](md/notifications.md)
 * [test result](md/commits.md)
+* [advance-settings](md/customscript.md)
 * [spacify branch](md/branches.md)
 
