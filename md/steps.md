@@ -1,4 +1,4 @@
-demos
+animated gifs
 -----
 
 - [final view](../gif/final_view.gif)
