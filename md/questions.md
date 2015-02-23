@@ -1,7 +1,7 @@
 # questions
 
 
-**Example: how to test my project using selenium ?**
+**how to test my project using selenium ?**
 - tell the integrator person to create a new machine(gitlab-ci-runner machine) and install selenium and register this machine on gitlab-ci machine
 - gitlab-ci server should list the new registered machines(the runners)
 - the developer can link a runner to his project 
