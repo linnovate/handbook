@@ -1,4 +1,4 @@
-how to pick a runner suitable for selenium-testing ?
+manually updating the gitlab-settings for my project
 ----
 
 spacific C.I settings for a project
