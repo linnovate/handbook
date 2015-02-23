@@ -1,3 +1,6 @@
+how to enable gitlab-ci integration for project: X only for branch: Y ? 
+----
+
 menu -> settings
 ----
 - settings ( **notice:** scroll down to view more options ! )
