@@ -4,7 +4,7 @@
 * [questions](md/questions.md)
 * [menu](md/menu.md)
 * [my projects](md/button_add.md)
-* [landing page](md/status_image.md)
+* [project frontpage](md/status_image.md)
 * [pick a runner](md/pick_runner.md)
 * [assosiate: runner+project](md/keys_first.md)
 * [connector: project-and-runner](md/customscript.md)
