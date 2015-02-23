@@ -1,4 +1,4 @@
-animated gifs
+screencasts
 -----
 
 - [final view](../gif/final_view.gif)
