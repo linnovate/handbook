@@ -8,7 +8,7 @@
 * [pick a suitable runner](md/pick_runner.md)
 * [settings per project](md/menu.md)
 * [updating README.md](md/status_image.md)
-* [test result](md/commits.md)
+* [inspect old builds](md/commits.md)
 * [reports](md/notifications.md)
 * [advance-settings](md/customscript.md)
 * [spacify branch](md/branches.md)
