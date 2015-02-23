@@ -1,4 +1,4 @@
-list of project
+how to enable gitlab-ci integration for project: X ? 
 ----
 - gitlab-projects list as instances on gitlab-ci
 - each instance has C.I enabled/disabled 
