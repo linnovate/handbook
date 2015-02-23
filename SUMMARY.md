@@ -8,8 +8,8 @@
 * [my projects](md/button_add.md)
 * [pick a runner](md/pick_runner.md)
 * [project frontpage](md/status_image.md)
-* [reports](md/notifications.md)
 * [test result](md/commits.md)
+* [reports](md/notifications.md)
 * [advance-settings](md/customscript.md)
 * [spacify branch](md/branches.md)
 
