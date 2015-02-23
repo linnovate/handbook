@@ -4,7 +4,8 @@
 **Example: how to test my project using selenium ?**
 - tell the integrator person to create a new machine(gitlab-ci-runner machine) and install selenium and register this machine on gitlab-ci machine
 - gitlab-ci server should list the new registered machines(the runners)
-- the developer can link a runner to his project (Notice: if we have a project in JS we want the runner to have npm pre-installed)
+- the developer can link a runner to his project 
+- Example: if we have a project in JS we want the runner to have npm pre-installed
 
 
 **can I change the runner-machine - and install another tool on it ?**
