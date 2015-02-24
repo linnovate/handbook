@@ -1,8 +1,6 @@
 screencasts
 -----
 
-- [final view](../gif/final_view.gif)
-
 steps:
 - [new project](../gif/new_project.gif)
 - [connect to gitlab-ci](../gif/connect_to_gitlab_ci.gif)
